@@ -2,3 +2,9 @@
 Atividade 2 versionamento
 
 print "Hello Word"
+
+
+print "Bye Word"
+
+
+
